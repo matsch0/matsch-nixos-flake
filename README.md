@@ -96,3 +96,5 @@ All other keybindings can be found at [bind.conf](./home/config/hypr/bind.conf)
 ## 📖 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Das ist jetzt alles meins :)
